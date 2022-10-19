@@ -4,3 +4,4 @@ print c
 c=d
 print d
 d=e
+print e
